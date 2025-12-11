@@ -1,0 +1,61 @@
+Multimedia Elements
+•	Make the webpage visually appealing.
+•	Help users understand content quickly through images or videos.
+•	Provide demonstrations or tutorials better than text.
+•	Improve accessibility (audio for visually impaired users).
+•	Attract and hold user attention.
+
+Code:
+<img src="image.jpg" alt="Sample Image">
+<audio controls src="audio.mp3"></audio>
+<video controls src="video.mp4"></video>
+Hyperlinks
+•	Connect users to related information easily.
+•	Improve website navigation.
+•	Reduce text clutter by linking instead of writing long explanations.
+•	Allow users to jump within the same page (anchor links).
+•	Provide quick access to external resources.
+
+Code:
+<a href="https://example.com">Visit Website</a>
+Tables
+•	Organize information in rows and columns.
+•	Make data easy to compare side by side.
+•	Improve readability of structured information.
+•	Help present large data clearly (pricing, schedules).
+•	Allow users to scan information quickly.
+
+Code:
+<table border="1">
+  <tr><th>Name</th><th>Age</th></tr>
+  <tr><td>John</td><td>25</td></tr>
+</table>
+Forms
+•	Allow users to enter information (login, sign-up, feedback).
+•	Enable communication between users and website.
+•	Help collect data efficiently.
+•	Improve interaction and user engagement.
+•	Make the website functional (search bars, contact forms).
+
+Code:
+<form>
+  <input type="text" placeholder="Enter Name">
+  <button type="submit">Submit</button>
+</form>
+Lists
+•	Present information in a clean and organized way.
+•	Help users read and understand quickly.
+•	Highlight key points without long paragraphs.
+•	Ordered lists show steps or rankings clearly.
+•	Unordered lists display features, menus, or points neatly.
+
+Code:
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ul>
+
+<ol>
+  <li>Step 1</li>
+  <li>Step 2</li>
+</ol>
